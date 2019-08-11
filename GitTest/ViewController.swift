@@ -18,10 +18,7 @@ class ViewController: UIViewController {
         print("test firt branch second branch")
         print("test firt branch second branch")
         print("test firt branch second branch")
-
-        // Do any additional setup after loading the view.
     }
-
-
+    
 }
 
