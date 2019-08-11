@@ -12,12 +12,7 @@ class ViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
-        print("test firt branch second branch")
-        print("test firt branch second branch")
-        print("test firt branch second branch")
-        print("test firt branch second branch")
-        print("test firt branch second branch")
-        print("test firt branch second branch")
+        print("test firt branch")
     }
     
 }
